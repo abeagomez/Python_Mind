@@ -1,3 +1,7 @@
+#Amalia Gómez Marcheco
+#abeagomez@gmail.com 
+#2016
+
 import random
 
 class masterMind:
